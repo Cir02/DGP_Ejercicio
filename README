@@ -1,0 +1,10 @@
+#DGP
+Ejercicio de evaluación de la asignatura
+• Crear un repositorio en GitHub que, además de la rama master,
+contenga otras dos ramas: branchA y branchB
+• Realizar varias modificaciones independientes en las tres ramas,
+confirmando los cambios con un commit en cada rama
+• Fusionar el contenido de la rama branchA en la rama master
+• Realizar algún cambio más en la rama branchB y confirmar los cambios
+con un nuevo commit
+• Fusionar el contenido de la rama branchB en la rama master
